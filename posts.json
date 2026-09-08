@@ -869,9 +869,14 @@
     }
   },
   {
-    "title": "2026-09-08",
-    "summary": "TIL이 작성되어 있지 않은 학습 계획 기록",
-    "tags": [],
+    "title": "Spring JPA CRUD와 Validation",
+    "summary": "Entity-DTO 변환과 외부 DB CRUD, 인증·인가 요청 흐름",
+    "tags": [
+      "Spring Boot",
+      "JPA",
+      "Validation",
+      "Spring Security"
+    ],
     "hashtags": [
       "LG CNS 6기",
       "개발자",
@@ -879,7 +884,14 @@
     ],
     "date": "2026-09-08",
     "paths": {
-      "tlp": "TLP/2026/09/2026-09-08.md"
+      "tlp": "TLP/2026/09/2026-09-08.md",
+      "til": "TIL/2026/09/2026-09-08.md",
+      "review": "Reviews/2026/09/2026-09-08.md"
+    },
+    "aiEvaluation": {
+      "level": "excellent",
+      "summary": "Entity-DTO 변환, JPA CRUD, Validation, 인증·인가 흐름 정리",
+      "reviewedAt": "2026-09-08"
     }
   }
 ]
