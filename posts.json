@@ -895,9 +895,15 @@
     }
   },
   {
-    "title": "2026-09-09",
-    "summary": "TIL이 작성되어 있지 않은 학습 계획 기록",
-    "tags": [],
+    "title": "Spring JWT 인증과 Bean Validation",
+    "summary": "JwtFilter 인증 흐름과 DTO 검증, 공통 처리 위치 비교",
+    "tags": [
+      "Spring Security",
+      "JWT",
+      "Bean Validation",
+      "Redis",
+      "CORS"
+    ],
     "hashtags": [
       "LG CNS 6기",
       "개발자",
@@ -905,7 +911,14 @@
     ],
     "date": "2026-09-09",
     "paths": {
-      "tlp": "TLP/2026/09/2026-09-09.md"
+      "tlp": "TLP/2026/09/2026-09-09.md",
+      "til": "TIL/2026/09/2026-09-09.md",
+      "review": "Reviews/2026/09/2026-09-09.md"
+    },
+    "aiEvaluation": {
+      "level": "excellent",
+      "summary": "JWT 인증 흐름, DTO 검증, 공통 처리 위치 비교와 실습 확인",
+      "reviewedAt": "2026-09-09"
     }
   }
 ]
