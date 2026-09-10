@@ -922,9 +922,15 @@
     }
   },
   {
-    "title": "2026-09-10",
-    "summary": "TIL이 작성되어 있지 않은 학습 계획 기록",
-    "tags": [],
+    "title": "Docker·ECR 기반 CI/CD 배포",
+    "summary": "Git·Docker·AWS·GitHub Actions·Jenkins 기반 자동 배포 흐름",
+    "tags": [
+      "CI/CD",
+      "Docker",
+      "AWS ECR",
+      "GitHub Actions",
+      "Jenkins"
+    ],
     "hashtags": [
       "LG CNS 6기",
       "개발자",
@@ -932,7 +938,14 @@
     ],
     "date": "2026-09-10",
     "paths": {
-      "tlp": "TLP/2026/09/2026-09-10.md"
+      "tlp": "TLP/2026/09/2026-09-10.md",
+      "til": "TIL/2026/09/2026-09-10.md",
+      "review": "Reviews/2026/09/2026-09-10.md"
+    },
+    "aiEvaluation": {
+      "level": "excellent",
+      "summary": "DevOps부터 Docker·ECR·Jenkins까지 CI/CD 배포 흐름 정리",
+      "reviewedAt": "2026-09-10"
     }
   }
 ]
