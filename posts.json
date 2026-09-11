@@ -949,9 +949,15 @@
     }
   },
   {
-    "title": "2026-09-11",
-    "summary": "TIL이 작성되어 있지 않은 학습 계획 기록",
-    "tags": [],
+    "title": "Spring Security JWT와 Redis TTL",
+    "summary": "Filter Chain 기반 JWT 인증과 Redis TTL 인증 상태 관리",
+    "tags": [
+      "Spring Security",
+      "JWT",
+      "Redis",
+      "Servlet Filter",
+      "Spring Data Redis"
+    ],
     "hashtags": [
       "LG CNS 6기",
       "개발자",
@@ -959,7 +965,14 @@
     ],
     "date": "2026-09-11",
     "paths": {
-      "tlp": "TLP/2026/09/2026-09-11.md"
+      "tlp": "TLP/2026/09/2026-09-11.md",
+      "til": "TIL/2026/09/2026-09-11.md",
+      "review": "Reviews/2026/09/2026-09-11.md"
+    },
+    "aiEvaluation": {
+      "level": "excellent",
+      "summary": "Servlet Filter, JWT 인증, Redis TTL 인증 상태 관리",
+      "reviewedAt": "2026-09-11"
     }
   }
 ]
