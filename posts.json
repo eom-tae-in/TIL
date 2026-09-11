@@ -947,5 +947,19 @@
       "summary": "DevOps부터 Docker·ECR·Jenkins까지 CI/CD 배포 흐름 정리",
       "reviewedAt": "2026-09-10"
     }
+  },
+  {
+    "title": "2026-09-11",
+    "summary": "TIL이 작성되어 있지 않은 학습 계획 기록",
+    "tags": [],
+    "hashtags": [
+      "LG CNS 6기",
+      "개발자",
+      "LGNSINSPIRECMAP"
+    ],
+    "date": "2026-09-11",
+    "paths": {
+      "tlp": "TLP/2026/09/2026-09-11.md"
+    }
   }
 ]
